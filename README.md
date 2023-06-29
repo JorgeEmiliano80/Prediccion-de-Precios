@@ -28,3 +28,8 @@ El proyecto se centra en analizar un conjunto de datos que contiene información
 
 Se analizan los resultados obtenidos en términos de métricas de cada rendimiento y gráficos de dispersión. Se discuten las fortalezas y debilidades de cada algoritmo y se concluye cuál es el más adecuado para la tarea de predicción de precios de carros.
 
+# Instrucciones de uso
+* Clonar el repositorio en tu máquina local.
+* Instalar las bibliotecas requeridas mencionadas en el archivo 'requirements.txt'
+* Ejecutar el script 'predicao-precos.py' para realizar la predicción de precios de carros utilizando los algoritmos mencionados.
+* Analizar los resultados y las visualizaciones generadas para obtener insights sobre los modelos.
