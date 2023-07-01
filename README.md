@@ -1,12 +1,12 @@
-## Proyecto de Predicción de Precios de Carros
+# Proyecto de Predicción de Precios de Carros
 
 Este proyecto tiene como objetivo realizar la predicción de precios de carros utilizando tres algoritmos de aprendizaje automático: Regresion Lineal, K-Nearest Neighbors y Random Forest.
 
-# Descripción del Proyecto
+## Descripción del Proyecto
 
 El proyecto se centra en analizar un conjunto de datos que contiene información sobre carros, como el año, kilometraje, mediana de precios por modelo, mediana de precios por año y mediana de precios por kilometraje. Con base en estos datos, se busca construir modelos de aprendizaje automático capaces de predecir el precio de un carro dado.
 
-# Algoritmos Utilizados
+## Algoritmos Utilizados
 
 * Regresion Lineal: Este algoritmo busca establecer una relación lineal entre las variables independientes (año, kilometraje, etc.) y la variable dependiente (precio). Utiliza la técnica de mínimos cuadrados para encontrar la mejor línea de ajuste.
 
