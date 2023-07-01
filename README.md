@@ -27,7 +27,7 @@ El proyecto se centra en analizar un conjunto de datos que contiene información
 
 # Resultados y Conclusiones
 
-Se analizan los resultados obtenidos en términos de métricas de cada rendimiento y gráficos de dispersión. Se discuten las fortalezas y debilidades de cada algoritmo y se concluye cuál es el más adecuado para la tarea de predicción de precios de carros (que en nuestro caso fue mediante el gráfico Random Forest).
+Se analizan los resultados obtenidos en términos de métricas de cada rendimiento y gráficos de dispersión. Se discuten las fortalezas y debilidades de cada algoritmo y se concluye cuál es el más adecuado para la tarea de predicción de precios de carros.
 
 # Instrucciones de uso
 * Clonar el repositorio en tu máquina local.
