@@ -22,11 +22,12 @@ El proyecto se centra en analizar un conjunto de datos que contiene información
 * Entrenamiento de modelos: Se entrenan los modelos de Regresión Lineal, KNN e Random Forest utilizando el conjunto de entrenamiento.
 * Evaluación de Modelos: Se evalúa el rendimineto de cada modelo utilizando métricas como el Error Cuadrático Medio (RMSE) y el Error Absoluto Medio (MAE).
 * Predicción de precios: Se utilizan los modelos entrenados para realizar predicciones de precios en el conjunto de prueba.
+* Optimización de los Algoritmos: se realizó una optimización de los algoritmos utilizando en un comienzo solo el 10% de los datos para tener una noción de la rapidez del modelo para procesar esos datos.
 * Visualización de resultados: Se generan gráficos de dispersión para comparar las predicciones con los valores reales y analizar el redimiento de cada modelo.
 
 # Resultados y Conclusiones
 
-Se analizan los resultados obtenidos en términos de métricas de cada rendimiento y gráficos de dispersión. Se discuten las fortalezas y debilidades de cada algoritmo y se concluye cuál es el más adecuado para la tarea de predicción de precios de carros.
+Se analizan los resultados obtenidos en términos de métricas de cada rendimiento y gráficos de dispersión. Se discuten las fortalezas y debilidades de cada algoritmo y se concluye cuál es el más adecuado para la tarea de predicción de precios de carros (que en nuestro caso fue mediante el gráfico Random Forest).
 
 # Instrucciones de uso
 * Clonar el repositorio en tu máquina local.
